@@ -1,4 +1,8 @@
 Add your favorite animal below!
+lion
+dog
+cat
+monkey
 capybara
 lion
 pig
