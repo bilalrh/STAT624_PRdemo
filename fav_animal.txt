@@ -4,4 +4,6 @@ dog
 cat
 monkey
 capybara
-
+lion
+pig
+cat
